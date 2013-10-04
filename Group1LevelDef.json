@@ -1,0 +1,79 @@
+{
+    "Level1": {
+        "background": "level1.png",
+        "stonePosition": {
+            "width": 2,
+            "height": 1.1
+        },
+        "paddlePosition": {
+            "width": 2,
+            "height": 2
+        },
+        "playerPosition": {
+            "width": 1.49,
+            "height": 5
+        },
+        "playerBoxPosition": {
+            "width": 1.5,
+            "height": 4
+        },
+        "ductPosition": {
+            "width": 1,
+            "height": 1
+        },
+        "stoneBarriers": {
+            "stoneBarrier1": {
+                "width": 2,
+                "height": 3
+            },
+            "stoneBarrier2": {
+                "width": 6,
+                "height": 2
+            }
+        },
+        "stars": {
+            "star1": {
+                "width": 1.5,
+                "height": 1.1
+            }
+        }
+    },
+    
+    "Level2": {
+        "background": "bold480x320qx3.jpg",
+        "stonePosition": {
+            "width": 1.4,
+            "height": 1.1
+        },
+        "paddlePosition": {
+            "width": 2,
+            "height": 2
+        },
+        "playerPosition": {
+            "width": 2.9,
+            "height": 5
+        },
+        "playerBoxPosition": {
+            "width": 3,
+            "height": 4
+        },
+        "ductPosition": {
+            "width": 1,
+            "height": 1
+        },
+        "stoneBarriers": {
+            "stoneBarrier1": {
+                "width": 1.5,
+                "height": 1.6
+            },
+            "stoneBarrier2": {
+                "width": 5,
+                "height": 5
+            },
+            "stoneBarrier3": {
+                "width": 6,
+                "height": 5
+            }
+        }
+    }
+}
